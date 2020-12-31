@@ -1,6 +1,6 @@
 # image-uploader
-[![Pod License](https://img.shields.io/github/license/ezxmora/image-uploader)](https://choosealicense.com/licenses/mit/)
-![Pod Version](https://img.shields.io/github/v/release/ezxmora/image-uploader)
+[![Pod License](https://img.shields.io/github/license/ezxmora/image-uploader?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+![Pod Dependencies](https://img.shields.io/david/ezxmora/image-uploader?style=for-the-badge)
 
 An image uploader written in JavaScript which uses Redis.
 
