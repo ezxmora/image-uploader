@@ -1,0 +1,11 @@
+node_modules
+src/client/build
+
+## FILES
+.env
+*.png
+*.jpg
+*.gif
+*.jpeg
+*.mp4
+package-lock.json
